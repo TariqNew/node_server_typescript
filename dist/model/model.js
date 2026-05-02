@@ -1,0 +1,32 @@
+export const books = [
+    {
+        id: 1,
+        name: "Unanswered Cries",
+        author: "Oyono Mbia",
+        publisher: "Kr Cripwell",
+        year: 1960,
+        pages: 120,
+        genre: "fiction",
+        available: true,
+    },
+    {
+        id: 2,
+        name: "Things Fall Apart",
+        author: "Chinua Achebe",
+        publisher: "Heinemann",
+        year: 1958,
+        pages: 209,
+        genre: "fiction",
+        available: false,
+    },
+    {
+        id: 3,
+        name: "Clean Code",
+        author: "Robert C. Martin",
+        publisher: "Prentice Hall",
+        year: 2008,
+        pages: 464,
+        genre: "education",
+        available: true,
+    },
+];
